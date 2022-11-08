@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^7.111",
+        "slim/slim": "^4.9",
+        "slim/psr7": "^1.5"
+    }
+}

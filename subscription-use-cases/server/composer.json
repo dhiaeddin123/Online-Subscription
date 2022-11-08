@@ -1,0 +1,14 @@
+{
+  "name": "subscription-use-cases/fixed-price",
+  "version": "1.0.0",
+  "description": "A Stripe sample implementing cards for subscriptions with fixed prices.",
+  "require": {
+    "slim/slim": "3.*",
+    "vlucas/phpdotenv": "^3.4",
+    "stripe/stripe-php": "^7.68.0",
+    "monolog/monolog": "^1.17"
+  },
+  "scripts": {
+    "start": "php -S 0.0.0.0:4242 index.php"
+  }
+}
